@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Sadain aka TheObjectOrientedGuy, a Full-stack Developer working remotely since 2021 🚀</div>  
+### <div align="center">I'm Sadain aka TheObjectOrientedGuy 🚀</div>  
   
 
 - ⚔️ Full Stack Software Engineer  
