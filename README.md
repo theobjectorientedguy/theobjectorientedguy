@@ -1,93 +1,149 @@
+<h1 align="center">Syed Sadain Haider</h1>
+<h3 align="center">AI Systems Engineer • Autonomous Agents • Machine Learning • Cloud & MLOps</h3>
 
-### <div align="center">I'm Sadain aka TheObjectOrientedGuy 🚀</div>  
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Systems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Autonomous-Agents-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Infrastructure-green?style=for-the-badge"/>
+</p>
 
-- ⚔️ Full Stack Software Engineer  
-   
-- ⚡ Fun fact: I know how to center a "div"  
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-3x%20Certified-orange?style=for-the-badge&logo=amazonaws"/>
+</p>
 
-<br/>  
+---
 
+# About Me
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I build **AI-driven systems that combine reasoning, perception, and scalable infrastructure**.
 
+My work focuses on designing intelligent platforms powered by **LLMs, knowledge graphs, multimodal AI, and distributed cloud architectures**.
 
+I enjoy working at the intersection of **machine learning, autonomous systems, and production-grade infrastructure**.
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+**Areas I enjoy working on**
 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.invisionapp.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-</div>
+• Autonomous AI agents
+• Retrieval Augmented Generation (RAG)
+• Multimodal AI systems
+• Computer vision & video intelligence
+• AI infrastructure and MLOps
+• Distributed ML pipelines
 
-</td><td valign="top" width="33%">
+---
 
+# Tech Ecosystem
 
+## Artificial Intelligence
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+<p>
+<img src="https://img.shields.io/badge/Python-AI-blue"/>
+<img src="https://img.shields.io/badge/PyTorch-DeepLearning-red"/>
+<img src="https://img.shields.io/badge/TensorFlow-ML-orange"/>
+<img src="https://img.shields.io/badge/LangChain-LLM-black"/>
+<img src="https://img.shields.io/badge/LangGraph-AgentSystems-purple"/>
+<img src="https://img.shields.io/badge/LlamaIndex-RAG-teal"/>
+<img src="https://img.shields.io/badge/OpenAI-APIs-green"/>
+<img src="https://img.shields.io/badge/Gemini-AI-blueviolet"/>
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## Knowledge Systems & Data
 
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-blue"/>
+<img src="https://img.shields.io/badge/Neo4j-KnowledgeGraph-green"/>
+<img src="https://img.shields.io/badge/FAISS-VectorSearch-orange"/>
+<img src="https://img.shields.io/badge/Chroma-VectorDB-purple"/>
+<img src="https://img.shields.io/badge/Snowflake-DataWarehouse-lightblue"/>
+</p>
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+---
 
-</td></tr></table>  
+## Cloud Infrastructure
 
-<br/>  
+<p>
+<img src="https://img.shields.io/badge/AWS-Cloud-orange"/>
+<img src="https://img.shields.io/badge/Azure-Cloud-blue"/>
+<img src="https://img.shields.io/badge/Docker-Containers-blue"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-purple"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC"/>
+</p>
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/theobjectorientedguy" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sadainhaider" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadain-haider/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Backend & Systems
 
-<br />
+<p>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green"/>
+<img src="https://img.shields.io/badge/Django-WebFramework-darkgreen"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-brightgreen"/>
+<img src="https://img.shields.io/badge/REST-APIs-grey"/>
+<img src="https://img.shields.io/badge/ETL-DataPipelines-blue"/>
+</p>
+
+---
+
+## DevOps & MLOps
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-Actions-black"/>
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-red"/>
+<img src="https://img.shields.io/badge/CircleCI-Automation-blue"/>
+<img src="https://img.shields.io/badge/Tekton-Pipelines-purple"/>
+<img src="https://img.shields.io/badge/MLflow-ExperimentTracking-orange"/>
+</p>
+
+---
+
+# Certifications
+
+🏅 **3× AWS Certified**
+
+• AWS Certified Machine Learning
+• AWS Certified Solutions Architect
+• AWS Certified AI / Machine Learning
+
+---
+
+# Research Interests
+
+Autonomous Agent Systems
+LLM Reasoning Architectures
+Multimodal AI
+Knowledge Graphs for LLMs
+Human-AI Interaction
+
+---
+
+# GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=theobjectorientedguy&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theobjectorientedguy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Philosophy
+
+I believe the next generation of software will be **autonomous, intelligent, and self-improving**.
+
+My goal is to build systems where **AI is not just a feature — it is the architecture**.
+
+---
+
+# Connect
+
+**LinkedIn**
+https://linkedin.com/in/sadain-haider
+
+**Email**
+[sadainhaider10@gmail.com](mailto:sadainhaider10@gmail.com)
+
+**GitHub**
+https://github.com/theobjectorientedguy
