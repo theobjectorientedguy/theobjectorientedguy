@@ -19,8 +19,6 @@ I build **AI-driven systems that combine reasoning, perception, and scalable inf
 
 My work focuses on designing intelligent platforms powered by **LLMs, knowledge graphs, multimodal AI, and distributed cloud architectures**.
 
-I enjoy working at the intersection of **machine learning, autonomous systems, and production-grade infrastructure**.
-
 **Areas I enjoy working on**
 
 • Autonomous AI agents
@@ -117,33 +115,10 @@ Human-AI Interaction
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theobjectorientedguy&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theobjectorientedguy&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Philosophy
-
-I believe the next generation of software will be **autonomous, intelligent, and self-improving**.
-
-My goal is to build systems where **AI is not just a feature — it is the architecture**.
-
----
-
 # Connect
 
 **LinkedIn**
 https://linkedin.com/in/sadain-haider
-
-**Email**
-[sadainhaider10@gmail.com](mailto:sadainhaider10@gmail.com)
 
 **GitHub**
 https://github.com/theobjectorientedguy
