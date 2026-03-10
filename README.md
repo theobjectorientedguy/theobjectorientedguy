@@ -28,7 +28,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 • AI infrastructure and MLOps
 • Distributed ML pipelines
 
----
 
 # Tech Ecosystem
 
@@ -45,7 +44,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 <img src="https://img.shields.io/badge/Gemini-AI-blueviolet"/>
 </p>
 
----
 
 ## Knowledge Systems & Data
 
@@ -57,7 +55,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 <img src="https://img.shields.io/badge/Snowflake-DataWarehouse-lightblue"/>
 </p>
 
----
 
 ## Cloud Infrastructure
 
@@ -69,7 +66,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC"/>
 </p>
 
----
 
 ## Backend & Systems
 
@@ -81,7 +77,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 <img src="https://img.shields.io/badge/ETL-DataPipelines-blue"/>
 </p>
 
----
 
 ## DevOps & MLOps
 
@@ -95,16 +90,6 @@ My work focuses on designing intelligent platforms powered by **LLMs, knowledge 
 
 ---
 
-# Certifications
-
-🏅 **3× AWS Certified**
-
-• AWS Certified Machine Learning
-• AWS Certified Solutions Architect
-• AWS Certified AI / Machine Learning
-
----
-
 # Research Interests
 
 Autonomous Agent Systems
@@ -112,8 +97,6 @@ LLM Reasoning Architectures
 Multimodal AI
 Knowledge Graphs for LLMs
 Human-AI Interaction
-
----
 
 # Connect
 
