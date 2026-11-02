@@ -2,9 +2,6 @@
 
 # Syed Sadain Haider
 
-**Ph.D. in Computer Science · Virginia Tech**  
-**Senior Software Engineer · Datics AI**
-
 *Multimodal Foundation Models · Embodied AI · Vision-Language-Action Models · Agentic Reasoning*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theobjectorientedguy)
